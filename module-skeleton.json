@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-governance-risk-and-compliance-nextjs",
+  "capabilityKey": "planned:sap:governance-risk-and-compliance",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-sap-governance-risk-and-compliance-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/sap/nextjs/governance-risk-and-compliance.md",
+  "presentationPlan": "projects/sap/nextjs/governance-risk-and-compliance.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
